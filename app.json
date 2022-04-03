@@ -1,14 +1,14 @@
 {
-    "name": "Miss Helena ",
-    "description": "Miss Helena is the Modified Version of WhatsAsena, Made By Rafi with Baileys.",
+    "name": "Minnutty",
+    "description": "Minnutty is the Modified Version of WhatsAsena, Made By MIDU-SER with Baileys.",
     "logo": "https://i.imgur.com/0mqbyOl.jpeg",
-    "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/Luciferking1/Miss-Helenaa",
-    "website":   "https://github.com/Luciferking1/Miss-Helenaa",
-    "success_url": "https://github.com/Luciferking1/Miss-Helenaa",
+    "keywords": ["whatsapp", "userbot", "Minnutty", "WhatsAsena", "mwol", "bot", "ai"],
+    "repository": "https://github.com/MIDU-SER/Minnutty",
+    "website":   "https://github.com/MIDU-SER/Minnutty",
+    "success_url": "https://github.com/MIDU-SER/Minnutty",
     "stack": "container",
     "env": {
-        "MISSHELENA_CODE": {
+        "MINNU_CODE": {
             "description": "Type the code when you got by scanning QR through WhatsApp.",
             "required": true
         },
