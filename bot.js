@@ -149,7 +149,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     var degisiklikler = '*🎗️Minnutty have New Update🎗️*\n\n```type``` *.update now* ```to update```\n\n```Join Support Group For Any Help```\n\n~https://chat.whatsapp.com/LVrLRYHNouQHZePt9NeBoZ~\n\n```Changes:```\n';
                     commits['all'].map(
                         (commit) => {
-                            degisiklikler += '💖 [' + commit.date.substring(0, 10) + ']: ' + commit.message + ' <' + commit.author_name + '>```\n';
+                            degisiklikler += '```💖 [' + commit.date.substring(0, 10) + ']: ' + commit.message + ' <' + commit.author_name + '>```\n';
                         }
                     );
                     await conn.sendMessage(
