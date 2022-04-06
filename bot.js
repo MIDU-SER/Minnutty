@@ -146,15 +146,14 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 if (commits.total === 0) {
                     await conn.sendMessage(conn.user.jid,Lang.UPDATE, MessageType.text);    
                 } else {
-                    var degisiklikler = Lang.NEW_UPDATE;
+                    var degisiklikler = '*🎗️Minnutty have New Update🎗️*\n\n```type``` *.update now* ```to update```\n\n```Join Support Group For Any Help```\n\n~https://chat.whatsapp.com/LVrLRYHNouQHZePt9NeBoZ~\n\n```Changes:```\n';
                     commits['all'].map(
                         (commit) => {
-                            degisiklikler += '💖 [' + commit.date.substring(0, 10) + ']: ' + commit.message + ' <' + commit.author_name + '>\n';
+                            degisiklikler += '💖 [' + commit.date.substring(0, 10) + ']: ' + commit.message + ' <' + commit.author_name + '>```\n';
                         }
                     );
                     await conn.sendMessage(
-                        conn.user.jid,
-                        '*🎗️Minnutty have New Update🎗️*\n\n```type``` *.update now* ```to update```\n\n```Join Support Group For Any Help```\n\n~https://chat.whatsapp.com/LVrLRYHNouQHZePt9NeBoZ~' + degisiklikler + '```', MessageType.text
+                        conn.user.jid, degisiklikler, MessageType.text
                     ); 
                 } 
           }
