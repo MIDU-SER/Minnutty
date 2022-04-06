@@ -318,11 +318,6 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         } else {
                             whats = new Message(conn, msg);
                         }
-/*
-                        if (command.deleteCommand && msg.key.fromMe) {
-                            await whats.delete(); 
-                        }
-*/
 
                         try {
                             await command.function(whats, match);
