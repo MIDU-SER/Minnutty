@@ -76,7 +76,7 @@ async function whatsAsena () {
     conn.version = [3,3234,9];
     const Session = new StringSession();
     
-    conn.browserDescription = ["Minnutty-Bot v1.01", "Opera", '1.0.0']
+    conn.browserDescription = ["Minnutty-Bot v1.01", "Firefox", '1.0.0']
 
     conn.logger.level = config.DEBUG ? 'debug' : 'warn';
     var nodb;
