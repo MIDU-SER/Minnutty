@@ -35,8 +35,6 @@ var LANG = {
 };
 Asena.addCommand({pattern: 'plugin ?(.*)', fromMe: true, desc: Lang.INSTALL_DESC, warn: Lang.WARN, dontAddCommandList: true}, (async (message, match) => {
 
-    match = match || message.reply_message.text
-
     if (match[1] == '') return await message.client.sendMessage(message.jid,Lang.NEED_URL + '.install https://gist.github.com/phaticusthiccy/4232b1c8c4734e1f06c3d991149c6fbd', MessageType.text)
     try {
         var url = new URL(match[1]);
