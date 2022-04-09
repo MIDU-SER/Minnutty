@@ -11,7 +11,7 @@
 <img src="https://telegra.ph/file/a474b762181eeddedae0c.jpg" width="250" height="250"/>
 </p>
   <p align="center">
-<a href="https://github.com/MIDU-SER"><img title="Author" src="https://img.shields.io/badge/Author-MIDLAJ-SER/Minnutty?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/MIDU-SER"><img title="Author" src="https://img.shields.io/badge/Author-MIDLAJ-SER/Minnutty?color=green&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -27,10 +27,10 @@ Project created by <a href="https://github.com/MIDU-SER">MIDU-SER</a> to make it
   <p align="center">
   <a href="https://github.com/MIDU-SER/Minnutty">
     
-<a href="https://github.com/MIDU-SER/followers"><img title="Followers" src="https://img.shields.io/github/followers/MIDU-SER?color=blue&style=flat-square"></a>
+<a href="https://github.com/MIDU-SER/followers"><img title="Followers" src="https://img.shields.io/github/followers/MIDU-SER?color=green&style=flat-square"></a>
 <a href="https://github.com/MIDU-SER/Minnutty/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MIDU-SER/Minnutty?color=green&style=flat-square"></a>
-<a href="https://github.com/MIDU-SER/Minnutty/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MIDU-SER/Minnutty?color=blue&style=flat-square"></a>
-<a href="https://github.com/MIDU-SER/Minnutty/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MIDU-SER/Minnutty?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/MIDU-SER/Minnutty/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MIDU-SER/Minnutty?color=green&style=flat-square"></a>
+<a href="https://github.com/MIDU-SER/Minnutty/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MIDU-SER/Minnutty?label=Watchers&color=green&style=flat-square"></a>
 </p>
 
 ##
