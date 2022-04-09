@@ -12,6 +12,13 @@
 </p>
   <p align="center">
 <a href="https://github.com/MIDU-SER"><img title="Author" src="https://img.shields.io/badge/Author-MIDU-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<p align="center">
+  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+    
+<a href="https://github.com/farhan-dqz/followers"><img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 </div>
 <p align="center">
