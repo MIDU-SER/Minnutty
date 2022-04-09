@@ -8,7 +8,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://telegra.ph/file/a474b762181eeddedae0c.jpg" alt="GIF" width="300" height="250"/>
+<img src="https://telegra.ph/file/a474b762181eeddedae0c.jpg" alt="GIF" width="300" height="300"/>
 </p>
   <p align="center">
 <a href="https://github.com/Luciferking1"><img title="Author" src="https://img.shields.io/badge/Author-Rafi And Ameen-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
