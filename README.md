@@ -39,7 +39,7 @@ Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to mak
 CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/FJZ00oZignw25kjLELXWKu" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIUFj2lnCef8cdKx8pyMtWpCw9l4-7FAl9xQ&usqp=CAU" alt="kyrie.baran" height="100" width="200" /></a>
+  <a href="https://chat.whatsapp.com/FJZ00oZignw25kjLELXWKu" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIUFj2lnCef8cdKx8pyMtWpCw9l4-7FAl9xQ&usqp=CAU" alt="kyrie.baran" height="50" width="100" /></a>
 </p>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Luciferking1/Miss.Helena)
