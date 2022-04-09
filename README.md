@@ -15,7 +15,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/MIDU-SER">Farhan-dqz</a> to make it public
+Project created by <a href="https://github.com/MIDU-SER">MIDU-SER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -41,13 +41,6 @@ CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
 <br>
   <a href="https://chat.whatsapp.com/FJZ00oZignw25kjLELXWKu" target="blank"><img align="center" src="https://telegra.ph/file/f4db0d42e2e31c06b8cf3.jpg" alt="kyrie.baran" height="60" width="200" /></a>
 </p>
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Luciferking1/Miss.Helena)
-
-
-
-  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ItsMeRafi/Miss-Helena-QR?v=1)
   
 
 
