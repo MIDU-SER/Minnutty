@@ -27,7 +27,7 @@ Project created by <a href="https://github.com/MIDU-SER">MIDU-SER</a> to make it
   <p align="center">
   <a href="https://github.com/MIDU-SER/Minnutty">
     
-<a href="https://github.com/MIDU-SER/followers"><img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
+<a href="https://github.com/MIDU-SER/followers"><img title="Followers" src="https://img.shields.io/github/followers/MIDU-SER?color=blue&style=flat-square"></a>
 <a href="https://github.com/MIDU-SER/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
 <a href="https://github.com/MIDU-SER/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
 <a href="https://github.com/MIDU-SER/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
