@@ -1,4 +1,4 @@
-FROM fusuf/whatsasena:latest
+FROM MIDU-SER/Minnutty:beta
 
 RUN git clone https://github.com/MIDU-SER/Minnutty /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
